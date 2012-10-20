@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">PreferenceFragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">PreferenceFragmentDemo</string>
+    <string name="settings1">Settings 1</string>
+    <string name="settings2">Settings 2</string>
+    <string name="enabled">Enable</string>
+
+</resources>
