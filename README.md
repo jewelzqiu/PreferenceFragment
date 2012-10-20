@@ -1,4 +1,7 @@
 PreferenceFragment
 ==================
 
-A Android Fragment extended from ListFragment (from Android Compability Package) to put preferences in it
+ViewPager containing Preferences.
+credit: 
+XDA member: <a href="http://forum.xda-developers.com/showthread.php?t=1363906">Fr4gg0r</a>
+I just modified a little:)
